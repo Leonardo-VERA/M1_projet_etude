@@ -1,0 +1,1 @@
+Développement d’un modèle de prédiction avancée des prix de l’or en exploitant des algorithmes de Machine Learning et d’analyse de séries temporelles. Ce projet vise à offrir une approche robuste et comparative pour anticiper les fluctuations du marché, en intégrant des données historiques et en évaluant la pertinence de plusieurs modèles de prévision.
